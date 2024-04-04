@@ -1,0 +1,4 @@
+PORT=5001
+MONGO_URL='mongodb+srv://rushikeshaher69:<password>@cluster0.gf7vfmz.mongodb.net/?retryWrites=true&w=majority'
+JWT_SECRET=asdfasd
+SESSION_SECRET=asdfa
