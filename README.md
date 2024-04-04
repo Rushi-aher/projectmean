@@ -1,4 +1,5 @@
-## Full stack MERN project - Easy Link App, url 
+## Full stack MERN project - Easy Link
+
 Connected to mongodb-atlas
 commands:    "npm start"-to start the server/backend
               "npm run dev"-start frontend
